@@ -8,6 +8,10 @@ This repository is a **portfolio case study** of my work on the project. The ori
 
 **Original source:** https://github.com/Schwarz28Iva/ProiectColectiv2021
 
+### A small 2021 disclaimer 😄
+
+Please excuse the very student-ish demo data — and the UI design, which was... not exactly award-winning. 😅
+
 <p align="center">
   <img src="docs/assets/login.png" width="900" alt="Task Dispatcher login interface">
 </p>
